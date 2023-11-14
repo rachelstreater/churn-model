@@ -1,1 +1,0 @@
-Please refer to the instructions.md (markdown) for how to complete this assessment. Thank you!

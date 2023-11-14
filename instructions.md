@@ -1,14 +1,4 @@
-# Congratulations!
-Congratulations on getting to the next stage in the application process. As part of this next stage, we ask you complete the QuantSpark Machine Learning assessment. We hope the test will only take 2-3 hours - please don’t feel obliged to continue past that. It’s okay if you cannot completely finish the test, simply give us some details of what you would have done when notifying us of your submission.
-
-Please send us your submission either as a link to a Git repo hosted in a platform of your choice (e.g. GitHub, Bitbucket or GitLab), or alternatively by uploading a zipped folder of your submission to the following link:
-LINK
-
-# Tasks
-1. Please follow the task instructions written below, we have provided a dataset (dataset.csv) for this task.
-2. We have provided a set of questions (questions.md), please answer them as best you can. They relate to the problem described below.
-
-# Churn Prediction Task
+# Churn Prediction
 
 ## Problem area
 - A B2B SaaS business is looking to build a predictive model to detect customer churn. They have provided a renewals dataset that contains monthly data on their customers, consisting of a mix of profile, usage, and engagement data.
